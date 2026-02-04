@@ -38,3 +38,19 @@ Yasal E-Faturanız
 schtasks /create /sc minute /mo 20 /tn "Lqzrhdrrs" /tr C:\\Users\\Public\\Lqzrhdrrs.url"
 "C:\Users\Public\Libraries\Lqzrhdrrs.exe"
 C:\\Users\\Public\\srrdhrzqL.exe
+2024-3-19_350 جلسة مجلس الامن بشأن القضية الفلسطينية.exe		
+الاجتماع الاستراتيجي لمجموعة العمل الامني.exe		
+مشاريع القرارات الخاصة بدولة فلسطين سري للغاية.exe		
+تقرير حول مكافحة تمويل الإرهاب في الضفة الغربية.exe		
+t.sh		
+lol.mipsel.elf		
+lol.mips.elf		
+lol.armv5l.elf 		
+lol.armv7l.elf		
+skid.armv5l.elf		
+skid.armv7l.elf		
+skid.mips.elf		
+massload		
+wget.sh		
+iw6rgeu9j.exe		
+383655854
