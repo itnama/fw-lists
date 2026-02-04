@@ -91,3 +91,6 @@ c5bb5cddef015c65fa6c09c8704722ffb121882df30866b764b796a9e3e51cd0
 ngarm5.octet-stream		
 ngarm7.octet-stream		
 3524648.bin.elf
+C:\Windows\System32\Tasks\Windows\WindowsDefenderUpdate\Windows Defender Updater		
+C:\Windows\System32\Tasks\Windows\WindowsServicesUpdate\Windows Services Updater		
+C:\Windows\System32\Tasks\Automatic Windows Update
